@@ -8,6 +8,7 @@ public class DemoSpringIocContainerApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DemoSpringIocContainerApplication.class, args);
+
 	}
 
 }
